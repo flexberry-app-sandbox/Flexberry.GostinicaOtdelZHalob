@@ -13,7 +13,7 @@
       "EmberJs": {
         "EmberApp": true,
         "EmberAddon": false,
-        "Build": false,
+        "Build": true,
         "GitClone": false,
         "GitPush": false,
         "GhPagesPush": false,
@@ -30,7 +30,7 @@
       "Java": true
     },
     "Docker": {
-      "Dockerfile": false,
+      "Dockerfile": true,
       "DockerfileAutobuild": false,
       "DockerBuildShellScript": false,
       "DockerSwarm": false
@@ -79,9 +79,9 @@
     },
     "Metadata": {
       "Crp": false,
-      "Json": false,
+      "Json": true,
       "Jdl": false,
-      "PlantUML": false
+      "PlantUML": true
     }
   }
 }
